@@ -12,3 +12,4 @@ C:\Users\Leoda\Documents\VS code\projetos\C#\estacionamento\obj\Debug\net8.0\ref
 C:\Users\Leoda\Documents\VS code\projetos\C#\estacionamento\obj\Debug\net8.0\estacionamento.pdb
 C:\Users\Leoda\Documents\VS code\projetos\C#\estacionamento\obj\Debug\net8.0\estacionamento.genruntimeconfig.cache
 C:\Users\Leoda\Documents\VS code\projetos\C#\estacionamento\obj\Debug\net8.0\ref\estacionamento.dll
+C:\Users\Leoda\Documents\VS code\projetos\C#\estacionamento\obj\Debug\net8.0\estacionamento.sourcelink.json
